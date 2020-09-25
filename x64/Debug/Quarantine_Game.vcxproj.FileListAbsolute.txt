@@ -1,0 +1,5 @@
+C:\Users\salin\Desktop\Portfolio\QUARANTINE_GAME-master\x64\Debug\Quarantine_Game.vcxprojAssemblyReference.cache
+C:\Users\salin\Desktop\Portfolio\QUARANTINE_GAME-master\x64\Debug\Quarantine_Game.Frm_principal.resources
+C:\Users\salin\Desktop\Portfolio\QUARANTINE_GAME-master\x64\Debug\Quarantine_Game.vcxproj.GenerateResource.cache
+C:\Users\salin\Desktop\Portfolio\QUARANTINE_GAME-master\x64\Debug\Quarantine_Game.exe
+C:\Users\salin\Desktop\Portfolio\QUARANTINE_GAME-master\x64\Debug\Quarantine_Game.pdb

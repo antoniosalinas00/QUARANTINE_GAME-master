@@ -1,0 +1,5 @@
+﻿  Quarantine_Game.cpp
+C:\Users\salin\Desktop\Portfolio\QUARANTINE_GAME-master\Juego.h(389,85): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\salin\Desktop\Portfolio\QUARANTINE_GAME-master\Juego.h(390,85): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Quarantine_Game.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Quarantine_Game.vcxproj -> C:\Users\salin\Desktop\Portfolio\QUARANTINE_GAME-master\x64\Debug\Quarantine_Game.exe
